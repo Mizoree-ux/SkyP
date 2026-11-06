@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mizoree-ux/SkyP/refs/heads/main/Pepek"))()
+loadstring(game:HttpGet("https://skyp-api.koplak132asu.workers.dev/gui"))()
